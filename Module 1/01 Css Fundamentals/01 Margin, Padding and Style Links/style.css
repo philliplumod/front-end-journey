@@ -1,0 +1,47 @@
+.card{
+    background: #000;
+    color: white;
+    width: 500px;
+   
+    margin: 0 auto;
+    padding: 45px;
+
+}
+
+h1, p {
+    margin-top: 0;
+}
+
+h1 {
+    
+    font-size: 1.5rem;
+}
+p {
+    font-size: 1.125rem;
+}
+
+.links{
+    margin-top: 40px;
+    margin-top: 0;
+
+}
+strong {
+    background: yellow;
+    color: black;
+    
+}
+.accent-color {
+    color: yellow;
+}
+
+a:link, a:visited {
+    color: yellow;
+}
+
+a:focus { 
+    color: aquamarine;
+}
+
+a:hover{
+    color: red;
+}
